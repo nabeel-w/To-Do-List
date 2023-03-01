@@ -22,7 +22,7 @@ This To-Do Website is made using the following technologies:
 ## Installation
 To install the Notes Website, follow these steps:
 1. Install XAMPP on your machine.
-2. Clone this repository.
+2. Clone this repository into `xampp/htdocs/`.
 3. Import the SQL Tables.
 4. Start the XAMPP Server.
-5. Open the website in your browser at `http://localhost:80/`
+5. Open the website in your browser at `http://localhost:80/assignmentphp/index.php`
