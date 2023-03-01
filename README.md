@@ -4,11 +4,12 @@ This website is designed to provide a platform for users to organize their tasks
 ## Features
 The To-Do Website has the following features:
 
-- Adding Task
-- Deleting Task
-- Marking Tasks as Completed
-- Listing Tasks
-
+- __Adding Task -__ User will be able to add new tasks.
+- __Deleting Task -__ User will be able to delete tasks.
+- __Marking Tasks as Completed -__ User will be able to mark a task as Done.
+- __Listing Tasks -__ All User Tasks would be listed infornt of them.
+- __Listing Completed Tasks -__ These will be shown with a Green Background.
+- __Listing Pending Tasks-__ These will be shown with a Grey Background.
 ## Technologies Used
 This To-Do Website is made using the following technologies:
 - __HTML:__ The website's structure and content are written in HTML.
