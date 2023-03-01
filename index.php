@@ -53,7 +53,7 @@
                             echo "Done";
                         }
                         else
-                            echo "To Do"
+                            echo "Pending"
                         ?>
                     </td>
 					<td colspan="2">
